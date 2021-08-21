@@ -1,8 +1,7 @@
 Vectrex LA TAP
 ===
 
-A logic analyzer tap for the Vectrex.  It also turns the cartridge to face the player.
-Populate either the right-angle or straight male header for connections, or both.  I prefer the right-angle to keep the jumpers lower to the table where your logic analyzer is located.  This can also be used as a quick way to add RAM to a game if you don't have a multicart like [VEXTREME](https://github.com/technobly/VEXTREME) that can do that for you programmatically.
+The Vectrex LA Tap is a logic analyzer tap for the Vectrex. It also turns the cartridge to face the player.  Use it for technical debugging, or just as a way to display your running cartridge. Populate either the right-angle or straight male header for connections, or both.  I prefer the right-angle to keep the jumpers lower to the table where your logic analyzer is located.  This can also be used as a quick way to add RAM to a game if you don't have a multicart like [VEXTREME](https://github.com/technobly/VEXTREME) that can do that for you programmatically.
 
 ![](images/vectrex-la-tap.png)
 
