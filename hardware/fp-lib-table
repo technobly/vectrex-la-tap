@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name vectrex-la-tap)(type KiCad)(uri /Users/brett/code/debugging/technobly/vectrex-la-tap/hardware/libs/vectrex-la-tap.pretty)(options "")(descr ""))
+)
